@@ -1,0 +1,22 @@
+{
+  "name": "252u1r5056-jahnavi-bdf-lab-1",
+  "version": "1.0.0",
+  "description": "BDF Lab 1 - Node.js HTTP and Express server by Jahnavi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "node server-http.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "bdf",
+    "lab1"
+  ],
+  "author": "Jahnavi - 252U1R5056",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "type": "commonjs"
+}
